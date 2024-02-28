@@ -1,6 +1,6 @@
 <div align="center">
 
-## Sourcebans Theme 1.7
+## Sourcebans Theme 1.7 (1.0.2)
 
 <img src="https://github.com/AMXX4u/Sourcebans-Theme/blob/main/assets/banner.png"></img>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#description">Opis 📄</a> ×
-  <a href="#screenshots">Screenshot 📷</a>
+  <a href="#screenshots">Screenshot 📷</a> ×
   <a href="https://custom.newitvision.pl/demo/sourcebans/">Live demo 🎥</a>
 </p>
 
